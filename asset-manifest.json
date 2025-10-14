@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dizora/static/css/main.5a525e93.css",
+    "main.js": "/Dizora/static/js/main.5988c872.js",
+    "index.html": "/Dizora/index.html",
+    "main.5a525e93.css.map": "/Dizora/static/css/main.5a525e93.css.map",
+    "main.5988c872.js.map": "/Dizora/static/js/main.5988c872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a525e93.css",
+    "static/js/main.5988c872.js"
+  ]
+}
