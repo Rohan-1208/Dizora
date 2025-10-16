@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rohan-1208/Dizora/static/css/main.5a525e93.css",
-    "main.js": "/Rohan-1208/Dizora/static/js/main.6f9c09bb.js",
-    "index.html": "/Rohan-1208/Dizora/index.html",
-    "main.5a525e93.css.map": "/Rohan-1208/Dizora/static/css/main.5a525e93.css.map",
-    "main.6f9c09bb.js.map": "/Rohan-1208/Dizora/static/js/main.6f9c09bb.js.map"
+    "main.css": "https://www.dizoraprints.in/static/css/main.5a525e93.css",
+    "main.js": "https://www.dizoraprints.in/static/js/main.06f1ec62.js",
+    "index.html": "https://www.dizoraprints.in/index.html",
+    "main.5a525e93.css.map": "https://www.dizoraprints.in/static/css/main.5a525e93.css.map",
+    "main.06f1ec62.js.map": "https://www.dizoraprints.in/static/js/main.06f1ec62.js.map"
   },
   "entrypoints": [
     "static/css/main.5a525e93.css",
-    "static/js/main.6f9c09bb.js"
+    "static/js/main.06f1ec62.js"
   ]
 }
