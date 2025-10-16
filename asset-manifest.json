@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Dizora/static/css/main.5a525e93.css",
-    "main.js": "/Dizora/static/js/main.85f09dd5.js",
+    "main.css": "/Dizora/static/css/main.6240593d.css",
+    "main.js": "/Dizora/static/js/main.44c332cb.js",
     "index.html": "/Dizora/index.html",
-    "main.5a525e93.css.map": "/Dizora/static/css/main.5a525e93.css.map",
-    "main.85f09dd5.js.map": "/Dizora/static/js/main.85f09dd5.js.map"
+    "main.6240593d.css.map": "/Dizora/static/css/main.6240593d.css.map",
+    "main.44c332cb.js.map": "/Dizora/static/js/main.44c332cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a525e93.css",
-    "static/js/main.85f09dd5.js"
+    "static/css/main.6240593d.css",
+    "static/js/main.44c332cb.js"
   ]
 }
